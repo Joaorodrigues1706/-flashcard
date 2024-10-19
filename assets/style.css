@@ -4,9 +4,7 @@ body{
 }
 
 #container {
-    #container {
-        display:flex ;
-    }
+        display: flex;
 }
 
 
